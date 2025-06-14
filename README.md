@@ -1,5 +1,4 @@
-![image](https://github.com/user-attachments/assets/338fc330-12d6-4071-a697-55c0e552d3dd)![image](https://github.com/user-attachments/assets/8295769e-a17a-410e-91d1-a496f47a65c5)# BlogContainerApps
-Criando um Blog com Container Apps
+
 Nesse fluxo abaixo poderiamos ter um loadbalance que para dierecionar ao recurso com menus trafego
 ![image](https://github.com/user-attachments/assets/42e8cf22-3d25-47d9-a9f5-abac26766649)
 
