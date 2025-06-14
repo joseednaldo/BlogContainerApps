@@ -11,5 +11,5 @@ Escalando replicas
 ![image](https://github.com/user-attachments/assets/4cddfd5a-dff2-424a-b8a9-c8f42f1daee0)
 Revisão das replicas
 ![image](https://github.com/user-attachments/assets/68c4bad9-6392-4650-b539-26628dcd39c0)
-Recuperando o endereço da aplicação, caso a gente tenha om LoadBalance vamos ter dois endereçoes da apçicação.
+Recuperando o endereço da aplicação, caso a gente tenha om LoadBalance vamos ter dois endereço da apçicação.
 ![image](https://github.com/user-attachments/assets/09fc8780-7b64-44a3-a538-7f3184bb1e3a)
